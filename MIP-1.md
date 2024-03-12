@@ -31,7 +31,7 @@ An MIP that successfully passes the "Last Call" will move to the "Final" state a
 ## Approved
 If tokenholders approve the proposal, the live protocol will be updated to reflect it. 
 At this time, any code changes (if relevant) should be merged into the core protocol repository so that the core protocol repository always reflects the live code that is running.
-The MIP is then considered to be in the "Approved" state. 
+The MIP is then considered to be in the "Approved" state. Once it has been approved, the CRG will then convert it into an approved "Project". 
 
 ## Abandoned
 If at any point during the MIP Finalization Process, a MIP is abandoned, it will be labeled as such. 
